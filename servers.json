@@ -2,67 +2,80 @@
   {
     "name": "Hypixel",
     "ip": "mc.hypixel.net",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   },
   {
     "name": "GommeHD",
     "ip": "gommehd.net",
-    "type": "PC"
+    "type": "PC",
+    "category": "german"
   },
   {
     "name": "HiveMC",
     "ip": "play.hivemc.com",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   },
   {
     "name": "CubeCraft",
     "ip": "play.cubecraft.net",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   },
   {
     "name": "Shotbow",
     "ip": "us.shotbow.net",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   },
   {
     "name": "Badlion",
     "ip": "na.badlion.net",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   },
   {
     "name": "Wynncraft",
     "ip": "play.wynncraft.com",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   },
   {
     "name": "Mineplex",
     "ip": "us.mineplex.com",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   },
   {
     "name": "Cosmic PVP",
     "ip": "cosmicpvp.me",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   },
   {
     "name": "PartyZone",
     "ip": "play.mcpz.net",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   },
   {
     "name": "Rewinside",
     "ip": "mc.rewinside.tv",
-    "type": "PC"
+    "type": "PC",
+    "category": "german"
   },
   {
     "name": "Epicube",
     "ip": "play.epicube.fr",
-    "type": "PC"
+    "type": "PC",
+    "category": "frensh"
   },
   {
     "name": "Timolia",
     "ip": "play.timolia.de",
-    "type": "PC"
+    "type": "PC",
+    "category": "german"
   },
   {
     "name": "Mineplex PE",
@@ -72,46 +85,55 @@
   {
     "name": "Lifeboat",
     "ip": "play.lbsg.net",
-    "type": "PE"
+    "type": "PE",
+    "category": "english"
   },
   {
     "name": "InPvP",
     "ip": "play.inpvp.net",
-    "type": "PE"
+    "type": "PE",
+    "category": "english"
   },
   {
     "name": "CookieBuild",
     "ip": "pe.cookie-build.com",
-    "type": "PE"
+    "type": "PE",
+    "category": "english"
   },
   {
     "name": "Leet CC",
     "ip": "play.leet.cc",
-    "type": "PE"
+    "type": "PE",
+    "category": "english"
   },
   {
     "name": "PigRaid",
     "ip": "pvp.pigraid.com",
-    "type": "PE"
+    "type": "PE",
+    "category": "english"
   },
   {
     "name": "Saico Pvp",
     "ip": "saicopvp.com",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   },
   {
     "name": "GuildCraft",
     "ip": "play.guildcraft.org",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   },
   {
     "name": "Empire Minecraft",
     "ip": "play.emc.gs",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   },
   {
     "name": "Minecade",
     "ip": "mineca.de",
-    "type": "PC"
+    "type": "PC",
+    "category": "english"
   }
 ]
