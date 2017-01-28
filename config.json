@@ -12,7 +12,7 @@
 		"Mineplex": "/favicons/mineplex.png"
 	},
 	"site": {
-		"port": 80,
+		"port": 3567,
 		"ip": "0.0.0.0"
 	},
 	"rates": {
