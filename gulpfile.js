@@ -3,15 +3,8 @@ var cssmin = require('gulp-cssmin');
 var uglify = require('gulp-uglify');
 var nodemon = require('gulp-nodemon');
 var gif = require('gulp-if');
-var stripJsonComments = require('gulp-strip-json-comments');
 
-var inProduction = true;
-
-gulp.task('default', function () {
-    return gulp.src('servers.json')
-        .pipe(stripJsonComments())
-        .pipe(gulp.dest('dist'));
-});
+var inProduction = process.env['NODE_ENV'] == 'production';
 
 gulp.task('build-assets-css', function() {
   gulp.src('assets/css/main.css')
