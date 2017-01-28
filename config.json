@@ -34,9 +34,9 @@
     "ip": "0.0.0.0"
   },
   "rates": {
-    "upateMojangStatus": 5000,
+    "upateMojangStatus": 10000,
     "mojangStatusTimeout": 3500,
-    "pingAll": 2000,
+    "pingAll": 5000,
     "connectTimeout": 2500
   },
   "logToDatabase": true,
