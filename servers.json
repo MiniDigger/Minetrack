@@ -136,5 +136,11 @@
     "ip": "mineca.de",
     "type": "PC",
     "category": "english"
+  },
+  {
+    "name": "Phanatic",
+    "ip": "play.phanaticmc.com",
+    "type": "PC",
+    "category": "english"
   }
 ]
