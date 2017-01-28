@@ -69,7 +69,7 @@
     "name": "Epicube",
     "ip": "play.epicube.fr",
     "type": "PC",
-    "category": "frensh"
+    "category": "french"
   },
   {
     "name": "Timolia",
@@ -80,7 +80,8 @@
   {
     "name": "Mineplex PE",
     "ip": "pe.mineplex.com",
-    "type": "PE"
+    "type": "PE",
+    "category": "english"
   },
   {
     "name": "Lifeboat",
