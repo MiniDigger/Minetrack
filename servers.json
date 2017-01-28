@@ -5,6 +5,11 @@
 		"type": "PC"
 	},
 	{
+		"name": "GommeHD",
+		"ip": "gommehd.net",
+		"type": "PC"
+	},
+	{
 		"name": "HiveMC",
 		"ip": "play.hivemc.com",
 		"type": "PC"
@@ -58,5 +63,35 @@
  		"name": "Timolia",
  		"ip": "play.timolia.de",
  		"type": "PC"
-  	}
+  	},
+	{
+		"name": "Mineplex PE",
+		"ip": "pe.mineplex.com",
+		"type": "PE"
+	},
+	{
+		"name": "Lifeboat",
+		"ip": "play.lbsg.net",
+		"type": "PE"
+	},
+	{
+		"name": "InPvP",
+		"ip": "play.inpvp.net",
+		"type": "PE"
+	},
+	{
+		"name": "CookieBuild",
+		"ip": "pe.cookie-build.com",
+		"type": "PE"
+	},
+	{
+		"name": "Leet CC",
+		"ip": "play.leet.cc",
+		"type": "PE"
+	},
+	{
+		"name": "PigRaid",
+		"ip": "pvp.pigraid.com",
+		"type": "PE"
+	}
 ]
