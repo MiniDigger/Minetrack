@@ -6,7 +6,7 @@
 		"/js/util.js": "assets/js/util.js",
 		"/js/graph.js": "assets/js/graph.js",
 		"/css/main.css": "assets/css/main.css",
-		"/favicons/mineplex.png": "assets/images/favicons/mineplex.png"
+		"/favicons/mineplex.png": "assets/images/favicons/mineplex.png",
 		"/favicons/lifeboat.png": "assets/images/favicons/lifeboat.png",
 		"/favicons/inpvp.png": "assets/images/favicons/inpvp.png",
 		"/favicons/mobcrush.png": "assets/images/favicons/mobcrush.png",
@@ -21,7 +21,7 @@
 		"Mobcrush Land": "/favicons/mobcrush.png",
 		"CookieBuild": "/favicons/cookie_build.png",
 		"PigRaid": "/favicons/pigraid.png",
-		"Leet CC": "/favicons/leetcc.png"
+		"Leet CC": "/favicons/leetcc.png",
 		"Mineplex": "/favicons/mineplex.png"
 	},
 	"site": {
