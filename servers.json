@@ -99,11 +99,6 @@
     "ip": "saicopvp.com",
     "type": "PC"
   },
-//  {
-//    "name": "ArkhamNetwork",
-//    "ip": "playmc.mc",
-//    "type": "PC"
-//  }, TODO figure out whats wrong here
   {
     "name": "GuildCraft",
     "ip": "play.guildcraft.org",
