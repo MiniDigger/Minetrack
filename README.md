@@ -4,7 +4,7 @@ Built to be lightweight and durable, you can easily adapt it to monitor BungeeCo
 This fork is maintained by MiniDigger (I only add servers, lol). If you want your server to be added, open a PR!
 
 #### Try it out!
-You can see an up-to-date copy of the production branch running on http://minetrack.minidigger.me
+You can see an up-to-date copy running on http://minetrack.minidigger.me
 
 "master" branch contains everything you need to start your own copy. "production" branch is what's used in the production environment of the minetrack.me site.
 
